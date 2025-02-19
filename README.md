@@ -1,6 +1,7 @@
 Подробное описание:
 
     Импорт необходимых библиотек:
+    
         FastAPI из fastapi для создания веб-приложения.
         BaseModel из pydantic для валидации данных.
         create_engine, Column, Integer, String, declarative_base, sessionmaker, Session из sqlalchemy для работы с базой данных.
